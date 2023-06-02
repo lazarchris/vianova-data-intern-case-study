@@ -23,3 +23,5 @@
  >   python3 main.py
 
 3. Results is written into  *****non_megapolis_countries.txt***** file
+
+4. Results file is attached here

@@ -4,6 +4,5 @@ city_population.db
 city_population.xlsx
 lib/
 lib64/
-non_megapolis_countries.txt
 pyvenv.cfg
 lib64

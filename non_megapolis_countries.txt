@@ -1,0 +1,228 @@
+ Country                                |   Population
+----------------------------------------+--------------
+                                        |         1400
+ Afghanistan                            |            0
+ Albania                                |            0
+ Algeria                                |        23339
+ American Samoa                         |         1261
+ Andorra                                |         8022
+ Angola                                 |         4972
+ Anguilla                               |            0
+ Antigua and Barbuda                    |         2526
+ Argentina                              |         1672
+ Armenia                                |         1340
+ Aruba                                  |        21500
+ Australia                              |         8571
+ Austria                                |         1144
+ Azerbaijan                             |        21396
+ Bahamas                                |           70
+ Bahrain                                |        97458
+ Bangladesh                             |        45631
+ Barbados                               |          623
+ Belarus                                |         5200
+ Belgium                                |         2682
+ Belize                                 |        17429
+ Benin                                  |         9847
+ Bhutan                                 |         2243
+ Bolivia                                |        23569
+ Bosnia and Herzegovina                 |         1078
+ Botswana                               |         1409
+ Brazil                                 |        13267
+ British Virgin Islands                 |         8449
+ Brunei Darussalam                      |        19151
+ Bulgaria                               |         3589
+ Burkina Faso                           |            0
+ Burundi                                |         6083
+ Cambodia                               |            0
+ Cameroon                               |         5390
+ Canada                                 |         2420
+ Cape Verde                             |       113364
+ Cayman Islands                         |        14845
+ Central African Republic               |        27428
+ Chad                                   |        35466
+ Chile                                  |        10018
+ China                                  |         9217
+ Colombia                               |         5624
+ Comoros                                |         1112
+ Congo                                  |        19089
+ Congo, Democratic Republic of the      |        27862
+ Cook Islands                           |        13373
+ Costa Rica                             |         3559
+ Croatia                                |          640
+ Cuba                                   |        27129
+ Cyprus                                 |         1248
+ Czech Republic                         |         1332
+ Côte d'Ivoire                          |        27504
+ Denmark                                |         2888
+ Djibouti                               |         1873
+ Dominica                               |        16571
+ Dominican Republic                     |         5217
+ Ecuador                                |        86498
+ Egypt                                  |       368650
+ El Salvador                            |         3033
+ Equatorial Guinea                      |         2318
+ Eritrea                                |         3753
+ Estonia                                |         1468
+ Ethiopia                               |        10531
+ Faeroe Islands                         |         1363
+ Fiji                                   |        77366
+ Finland                                |         1048
+ France                                 |        10220
+ French Guiana                          |            0
+ French Polynesia                       |         4609
+ Gabon                                  |       578156
+ Gambia                                 |         1831
+ Georgia                                |            0
+ Germany                                |         1600
+ Ghana                                  |        42972
+ Gibraltar                              |        26544
+ Greece                                 |         1104
+ Greenland                              |        14798
+ Grenada                                |         3378
+ Guadeloupe                             |        22859
+ Guam                                   |            0
+ Guatemala                              |       618397
+ Guernsey                               |        16488
+ Guinea                                 |        12547
+ Guinea-Bissau                          |        10490
+ Guyana                                 |         4867
+ Haiti                                  |        34657
+ Honduras                               |         1300
+ Hong Kong, China                       |            0
+ Hungary                                |        10016
+ Iceland                                |        29971
+ India                                  |        63035
+ Indonesia                              |            0
+ Iran, Islamic Rep. of                  |        43174
+ Iraq                                   |        19719
+ Ireland                                |         2778
+ Isle of Man                            |            0
+ Israel                                 |            0
+ Italy                                  |         3737
+ Jamaica                                |         2321
+ Japan                                  |        13615
+ Jersey                                 |        28000
+ Jordan                                 |         4786
+ Kazakhstan                             |         2560
+ Kenya                                  |         4763
+ Kiribati                               |         1834
+ Korea, Dem. People's Rep. of           |        19025
+ Korea, Republic of                     |            0
+ Kuwait                                 |       139163
+ Kyrgyzstan                             |        14237
+ Lao People's Dem. Rep.                 |         5521
+ Latvia                                 |         2103
+ Lebanon                                |       135204
+ Lesotho                                |       118355
+ Liberia                                |        11969
+ Libyan Arab Jamahiriya                 |       102038
+ Liechtenstein                          |         4701
+ Lithuania                              |         2000
+ Luxembourg                             |         1163
+ Macedonia, The former Yugoslav Rep. of |        18219
+ Madagascar                             |        53510
+ Malawi                                 |       584877
+ Malaysia                               |        30280
+ Maldives                               |         1562
+ Mali                                   |            0
+ Malta                                  |         8706
+ Marshall Islands                       |          602
+ Martinique                             |         5469
+ Mauritania                             |        61089
+ Mauritius                              |         3707
+ Mexico                                 |         3492
+ Moldova, Republic of                   |        14600
+ Monaco                                 |        16012
+ Mongolia                               |            0
+ Montenegro                             |         1132
+ Montserrat                             |         1000
+ Morocco                                |        79437
+ Mozambique                             |       225034
+ Myanmar                                |        39115
+ Namibia                                |         2000
+ Nauru                                  |          330
+ Nepal                                  |            0
+ Netherlands                            |         1015
+ New Caledonia                          |        19346
+ New Zealand                            |         2440
+ Nicaragua                              |          720
+ Niger                                  |        24804
+ Nigeria                                |         7495
+ Niue                                   |          624
+ Norfolk Island                         |          880
+ Northern Mariana Islands               |        15000
+ Norway                                 |          945
+ Oman                                   |       797000
+ Pakistan                               |       788915
+ Palau                                  |          271
+ Panama                                 |          435
+ Papua New Guinea                       |        33623
+ Paraguay                               |        41157
+ Peru                                   |            0
+ Philippines                            |         7621
+ Poland                                 |         1594
+ Portugal                               |         1162
+ Puerto Rico                            |         4922
+ Qatar                                  |         8380
+ Romania                                |         5670
+ Russian Federation                     |       318841
+ Rwanda                                 |        46240
+ Réunion                                |         7696
+ Saint Helena                           |          271
+ Saint Kitts and Nevis                  |         2568
+ Saint Lucia                            |         3406
+ Saint Pierre and Miquelon              |         1141
+ Saint Vincent and the Grenadines       |        24518
+ Samoa                                  |          769
+ San Marino                             |          910
+ Sao Tome and Principe                  |            0
+ Saudi Arabia                           |         7740
+ Senegal                                |         3500
+ Serbia                                 |         2852
+ Seychelles                             |         4183
+ Sierra Leone                           |         3492
+ Singapore                              |        46390
+ Slovakia                               |        35367
+ Slovenia                               |         4943
+ Solomon Islands                        |         7177
+ Somalia                                |         7893
+ South Africa                           |        78663
+ South Sudan, The Republic of           |        20048
+ Spain                                  |            0
+ Sri Lanka                              |         5000
+ Sudan, The Republic of                 |       130122
+ Suriname                               |        14662
+ Swaziland                              |       110537
+ Sweden                                 |        23067
+ Switzerland                            |         1610
+ Syrian Arab Republic                   |            0
+ Taiwan, China                          |       124725
+ Tajikistan                             |            0
+ Tanzania, United Republic of           |       224876
+ Thailand                               |            0
+ Timor-Leste                            |         1924
+ Togo                                   |        80683
+ Tokelau                                |          120
+ Tonga                                  |         2086
+ Trinidad and Tobago                    |        12054
+ Tunisia                                |         1820
+ Turkey                                 |         2600
+ Turkmenistan                           |        12000
+ Tuvalu                                 |          250
+ Uganda                                 |         8039
+ Ukraine                                |         3050
+ United Arab Emirates                   |        63482
+ United Kingdom                         |         2211
+ United States                          |         3940
+ Uruguay                                |        24047
+ Uzbekistan                             |            0
+ Vanuatu                                |         1171
+ Venezuela, Bolivarian Rep. of          |            0
+ Viet Nam                               |            0
+ Virgin Islands (US)                    |        50601
+ Wallis and Futuna Islands              |          239
+ West Bank and Gaza Strip               |         4141
+ Western Sahara                         |        10450
+ Yemen                                  |            0
+ Zambia                                 |         6155
+ Zimbabwe                               |         1390
