@@ -8,7 +8,7 @@
 
 4. Create a new virtual environment by running the following command:
 
-  >   python -m venv venv
+  >   python3 -m venv .
 
 5. Install the required libraries from the `*requirements.txt*` file:
   

@@ -15,11 +15,11 @@ class CityPopulationAnalyzer:
             print("XLSX file already exists.")
             return
         try:
+            print("File is downloading. Please wait...")
+            
             response = requests.get(url)
             response.raise_for_status()
-
-            print("File is downloading. Please wait...")
-            with open(file_path, "wb") as file:
+            with open(self.db_manager.file_path, "wb") as file:
                 file.write(response.content)
 
             print("File is downloaded successfully.")
