@@ -7,7 +7,7 @@ db_path = "city_population.db"
 
 
 # Create DbManager
-colomns_used = ["Name", "Country name EN", "Population"]
+colomns_used = ["Name", "Country name EN", "Country Code","Population"]
 db_manager = DbManager(file_path, db_path, colomns_used)
 
 # Create an instance of the CityPopulationAnalyzer class

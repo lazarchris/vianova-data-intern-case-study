@@ -16,7 +16,6 @@ class CityPopulationAnalyzer:
             return
         try:
             print("File is downloading. Please wait...")
-            
             response = requests.get(url)
             response.raise_for_status()
             with open(self.db_manager.file_path, "wb") as file:
@@ -32,13 +31,13 @@ class CityPopulationAnalyzer:
         if self.db_manager.load_data_db():
             table_name = "city_population"
             table_structure = """
-                CITY_NAME TEXT PRIMARY KEY, COUNTRY TEXT, POPULATION INTEGER """
+                CITY_NAME TEXT PRIMARY KEY, COUNTRY TEXT, COUNTRY_CODE TEXT, POPULATION INTEGER """
             self.db_manager.create_table(table_name, table_structure)
             print("The xlsx is loaded ..")
 
     def insert_csv_data_to_database(self):
         print("Writing data to db ..")
-        sql_command = "INSERT OR IGNORE INTO city_population (CITY_NAME, COUNTRY, POPULATION) VALUES (?, ?, ?);"
+        sql_command = "INSERT OR IGNORE INTO city_population (CITY_NAME, COUNTRY, COUNTRY_CODE,POPULATION) VALUES (?, ?, ?,?);"
         self.db_manager.insert_data(sql_command, self.db_manager.columns_used)
         print("Data written to the db successfully ..")
 
@@ -46,7 +45,7 @@ class CityPopulationAnalyzer:
         cursor = self.db_manager.connection.cursor()
 
         cursor.execute(
-            "SELECT DISTINCT COUNTRY, POPULATION FROM city_population WHERE POPULATION <= 10000000 GROUP BY COUNTRY"
+            " SELECT DISTINCT COUNTRY_CODE, COUNTRY FROM city_population WHERE COUNTRY NOT IN (SELECT DISTINCT COUNTRY FROM city_population WHERE POPULATION >= 10000000) ORDER BY COUNTRY ASC;"
         )
         non_megapolis_countries = cursor.fetchall()
 
@@ -54,7 +53,7 @@ class CityPopulationAnalyzer:
 
     def write_to_file(self, results, file_path):
         with open(file_path, "w") as file:
-            headers = ["Country", "Population"]
+            headers = ["Country Code", "Country"]
             table = tabulate(results, headers, tablefmt="presto")
             file.write(table)
         print(f"Results are generated into {file_path}")
