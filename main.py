@@ -1,4 +1,4 @@
-from CItyPopulationAnalyser import *
+from CityPopulationAnalyser import *
 
 # Specify the URL of the XLSX file and the desired save path
 xlsx_url = "https://tinyurl.com/yzhtem69"

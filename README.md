@@ -1,14 +1,25 @@
-# Case study
+# Configuration
 
+1. Clone repository to your local machine: **Tested on Ubuntu 22.04**
 
-We want to know the __countries that don't host a megapolis__
+2. Open a command prompt or terminal.
 
+3. Navigate to the root directory of *vianova-data-intern-case-study* repository.
 
-The purpose of this exercice is to evaluate your skills in Python and SQL. You'll have to fork this repository and write a program that fetch the [dataset of the population of all cities in the world](https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/export/?disjunctive.cou_name_en), stores it in a database, then perform a query that will compute: what are the countries that don't host a megapoliss (a city of more than 10,000,000 inhabitants)? 
+4. Create a new virtual environment by running the following command:
 
-The program will save the result (country code and country name) as a tabulated separated value file, ordered by country name. 
+  >   python -m venv venv
 
-You should answer as if you were writting production code within your team. You can imagine that the program will be run automatically every week to update the resulting data.
+5. Install the required libraries from the `*requirements.txt*` file:
+  
+>    pip install -r requirements.txt
 
-Please send us the link to your github repository with the answer of the exercise. 
+# How to run
 
+1. Open command terminal and navigate to the repository
+
+2. Launch *main.py* 
+
+ >   python3 main.py
+
+3. Results is written into  *****non_megapolis_countries.txt***** file

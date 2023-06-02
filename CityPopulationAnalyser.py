@@ -10,6 +10,7 @@ class CityPopulationAnalyzer:
         self.db_manager = db_manager
 
     def download_xlsx_file(self, url):
+        # This condition can be removed if this script runs often, commented for convenience to test locally as downloading takes some time
         if os.path.exists(self.db_manager.file_path):
             print("XLSX file already exists.")
             return
